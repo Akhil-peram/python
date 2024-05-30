@@ -1,4 +1,4 @@
-** _Python Tutorial_**
+** Python Tutorial **
  Basic python programming 
 
 
