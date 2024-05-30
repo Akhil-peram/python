@@ -13,7 +13,7 @@ The classic hello world program
  
  variables 
 
-.      name="John wick"
-.      print(name)
+      name="John wick"
+      print(name)
 
 
