@@ -11,9 +11,9 @@ The classic hello world program
           print("Hello ,I am Ironman")
  
  
- variables 
+variables 
+variables store data 
 
       name="John wick"
       print(name)
-
-variables store data 
+ 
