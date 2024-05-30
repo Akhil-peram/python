@@ -16,4 +16,4 @@ The classic hello world program
       name="John wick"
       print(name)
 
-
+variables store data 
