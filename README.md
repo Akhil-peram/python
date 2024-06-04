@@ -4,8 +4,6 @@ _Basic python programming_
 
 
 The classic hello world program
-   
-
 
           print("Hello World")
 
