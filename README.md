@@ -1,6 +1,6 @@
 # Python Tutorial
  
-_Basic python programming_ 
+**Basic python programming** 
 
 
 The classic hello world program
