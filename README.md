@@ -17,7 +17,7 @@ variables store data
       print(name)
 
  **Strings**
-  A sequence data type which stores a character (i.e A gropu of characters is called a strong or just one character sometimes :)
+  A sequence data type which stores a character (i.e A gropu of characters is called a string or just one character sometimes :)
 
        name="Ironman"
        space="" # just one space character
