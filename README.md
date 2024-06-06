@@ -23,7 +23,7 @@ variables store data
  **Strings**
 
  
-  A sequence data type which stores a character (i.e A gropu of characters is called a string or just one character sometimes :)
+  A sequence data type which stores a character (i.e A group of characters is called a string or just one character sometimes :)
   In python anything in between quotes either " " or ' ' is a string
 
        name="Ironman"
