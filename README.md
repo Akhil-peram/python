@@ -13,12 +13,16 @@ The classic hello world program
  
  
 **variables** 
+
+
 variables store data 
 
       name="John wick"
       print(name)
 
  **Strings**
+
+ 
   A sequence data type which stores a character (i.e A gropu of characters is called a string or just one character sometimes :)
   In python anything in between quotes either " " or ' ' is a string
 
