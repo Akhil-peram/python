@@ -3,8 +3,8 @@ def palindrome(strings,string2):
     n1=sorted(strings)
     n2=sorted(string2)
     if n1 == n2:
-        return true
+        return True
     else:
-        return false
+        return False
         
   
