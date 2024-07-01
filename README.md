@@ -36,9 +36,14 @@ variables store data
        symbols="!@#$%^&*()"
        pc='tron'
 
-       print(name , space , nums , symbols , pc)
+       # strings can be concatenated using " + " 
+
        
-  strings can be concatenated using " + " 
+       print(name + space + nums + symbols + pc)
+       print(name +" "+ space+" "+ nums +" "+ symbols +" "+ pc)
+       print("Hello"+","+"Everyone")
+       
+  
 
        
 
