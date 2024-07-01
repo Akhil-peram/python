@@ -17,8 +17,12 @@ The classic hello world program
 
 variables store data 
 
-      name="John wick"
-      print(name)
+      name = "John wick"
+      age = 39
+      occupation = "Assassin"
+      height = 6.1
+      net = 50_00_000
+      print(name,age, occupation , height , net)
 
  **Strings**
 
@@ -33,6 +37,8 @@ variables store data
        pc='tron'
 
        print(name , space , nums , symbols , pc)
+       
+  strings can be concatenated using " + " 
 
        
 
