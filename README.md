@@ -7,7 +7,9 @@ The classic hello world program
 
           print("Hello World")
 
-          print('Hello world')
+          print(f"Hello world") # f-strings
+
+          print('Hello World')
      
           print("Hello ,I am Ironman")
  
