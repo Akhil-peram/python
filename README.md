@@ -46,8 +46,7 @@ variables store data
        print("Hello"+","+"Everyone")
 
 ## Conditionals
-*if statements *
-*Loops*
-
+if statements
+Loops
      
        
