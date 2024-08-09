@@ -46,10 +46,10 @@ variables store data
        print("Hello"+","+"Everyone")
 
 ## Data Structures
-*Lists
-*Tuples
-*Dictionaries
-*Sets
+*Lists*
+*Tuples*
+*Dictionaries*
+*Sets*
 
      
        
