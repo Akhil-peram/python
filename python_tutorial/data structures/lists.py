@@ -45,3 +45,4 @@ print(companies)
 # copying a list by using [:]
 my_list=companies[:]
 print(my_list)
+print(companies)
