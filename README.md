@@ -45,11 +45,9 @@ variables store data
        print(name +" "+ space+" "+ nums +" "+ symbols +" "+ pc)
        print("Hello"+","+"Everyone")
 
-## Data Structures
-*Lists*
-*Tuples*
-*Dictionaries*
-*Sets*
+## Conditionals
+*if statements *
+*Loops*
 
      
        
