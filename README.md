@@ -53,8 +53,11 @@ Loops
 * elif
 * else
 
-  
-     'code'
+
+          age =19
+          if age > 18:
+              print("You can drive")
+          print("Bye")
 
 
 
