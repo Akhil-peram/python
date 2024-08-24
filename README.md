@@ -48,5 +48,17 @@ variables store data
 ## Conditionals
 if statements
 Loops
-     
+
+* if statements
+* elif
+* else
+
+  
+     'code'
+
+
+
+
+
+  
        
