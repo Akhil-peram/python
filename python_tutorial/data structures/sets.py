@@ -8,3 +8,13 @@ print(set)
 
 sets = { 1,2,4,5,2,6,8,2,3,1,4}
 print(sets)
+# to add an element into existing set add() function is used 
+sets.add('Hello')
+
+print(sets)
+
+#
+copy=sets.copy()
+sets.pop()
+print(copy)
+print(sets)
