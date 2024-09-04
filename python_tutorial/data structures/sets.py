@@ -13,8 +13,11 @@ sets.add('Hello')
 
 print(sets)
 
-#
-copy=sets.copy()
+# to  copy the set into a new set use copy() function / method
+
+copy_set=sets.copy()
+print(copy_set)
+
+# to pop (delete) use pop() 
 sets.pop()
-print(copy)
 print(sets)
