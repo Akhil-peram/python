@@ -60,8 +60,14 @@ Loops
           print("Bye")
 
 
+### else Statement
 
 
 
+.        name = "Naruto"
+.        if name == "Naruto":
+.            print("You may pass")
+.        else:
+.             print("Not allowed")
   
        
