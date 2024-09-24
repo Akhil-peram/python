@@ -64,10 +64,10 @@ Loops
 
 
 
-.        name = "Naruto"
-.        if name == "Naruto":
-.            print("You may pass")
-.        else:
-.             print("Not allowed")
+        name = "Naruto"
+        if name == "Naruto":
+            print("You may pass")
+        else:
+             print("Not allowed")
   
        
