@@ -1,4 +1,4 @@
-# Python Tutorial
+0# Python Tutorial
  
 **Basic python programming** 
 
@@ -64,7 +64,7 @@ Loops
 
 
         name = input("Enter passkey")
-        # name = "Naruto"
+        # passkey = "Naruto"
         if name == "Naruto":
             print("You may pass")
         else:
