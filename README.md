@@ -63,8 +63,8 @@ Loops
 ### else Statement
 
 
-
-        name = "Naruto"
+        name = input("Enter passkey")
+        # name = "Naruto"
         if name == "Naruto":
             print("You may pass")
         else:
