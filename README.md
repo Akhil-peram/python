@@ -26,7 +26,7 @@ variables store data
       net = 50_00_000
       print(name,age, occupation , height , net)
 
- **Strings**
+ ## Strings
 
  
   A sequence data type which stores a character (i.e A group of characters is called a string or just one character sometimes :)
