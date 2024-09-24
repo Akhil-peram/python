@@ -1,4 +1,4 @@
-0# Python Tutorial
+# Python Tutorial
  
 **Basic python programming** 
 
@@ -14,7 +14,7 @@ The classic hello world program
           print("Hello ,I am Ironman")
  
  
-**variables** 
+##**variables** 
 
 
 variables store data 
