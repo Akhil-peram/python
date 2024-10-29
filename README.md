@@ -1,7 +1,7 @@
 # Python Tutorial
  
 **Basic python programming** 
-#Variables
+# Variables
 
 
 The classic hello world program
