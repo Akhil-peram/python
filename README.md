@@ -2,6 +2,7 @@
  
 **Basic python programming** 
 # Variables
+# strings
 
 
 The classic hello world program
