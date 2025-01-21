@@ -1,6 +1,6 @@
 # Python Tutorial
  
-**Basic python programming** 
+**Basic python programming basics** 
 # Variables
 # strings
 # Conditional statements
