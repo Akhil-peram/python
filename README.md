@@ -2,7 +2,7 @@
  
 **Basic python programming basics** 
 # Variables
-# strings
+# Strings
 # Conditional statements
 # Oops 
 # File handling and Exceptions
