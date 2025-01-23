@@ -78,19 +78,14 @@ Loops
   
 ### elif statement (elseif)
 
+    name = input("Enter pass key")
+    if passkey == "Naruto":
+        print("You may pass")
+    elif:
+       print("You misplaced the key")
 
-'''
+    else:
+      print("Not allowed")
 
-name = input("Enter pass key")
-if passkey == "Naruto":
-  print("You may pass")
-
-elif:
-  print("You misplaced the key")
-
-else:
-   print("Not allowed")
-
-'''
 
 
