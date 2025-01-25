@@ -74,7 +74,9 @@ variables store data
            >= greater than or equal to
            <= less than or equal to
        """
-        a = 3 ,b = 6 ,c = 9
+        a = 3
+        b = 6
+        c = 9
         print(a>b)
         print(a<b)
         print(b<c)
