@@ -32,6 +32,25 @@ variables store data
       print(name,age, occupation , height , net)
 ## Operators
 - Arithmetic operators
+  The Mathetical operations in python using Arithmetic operators.Python can be used as a calculator
+
+       apples = 11
+       mangoes = 9
+
+       print(apples + mangoes)
+
+       print(apples - mangoes)
+
+       print(apples / mangoes)
+
+
+
+  
+        
+- Comparison operators
+- Membership operators
+- Relational operators
+- Logical operators
 
 
 
