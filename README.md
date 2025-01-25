@@ -30,6 +30,11 @@ variables store data
       height = 6.1
       net = 50_00_000
       print(name,age, occupation , height , net)
+## Operators
+-[Arithmetic operators]
+
+
+
 
  ## Strings
 
