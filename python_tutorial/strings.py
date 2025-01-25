@@ -14,3 +14,10 @@ print(f"Hello , {name} and welcome to {company}")
 print("Hello,{} and welcome to {}".format(name,company))
 print("Hello %d ",name)
 
+# to print a quote inside a string always use backslash or single quotes to print output
+
+message = 'Hello , " i am electron" '
+print(message)
+
+message2 = "I am from \"Space\" Andromeda galaxy"  # \ "string\" to print the quote
+print(message2)
