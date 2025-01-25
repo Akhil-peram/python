@@ -42,15 +42,49 @@ variables store data
        print(apples - mangoes)
 
        print(apples / mangoes)
+- Membership operators
+
+        # memebership operators in, not is
+
+       nums=[1,2,3]
+       print("\n",3 in nums)
+
+      cake="strawberry"
+      print("\n","berry" in cake)
+      print("\n", "mango" in cake)
+
+      # i mean literally numbers are not cake (-__-)
+      print("\n")
+      print(cake is not nums)
 
 
+       # id() one of the most impoertant function , it shows th storage location of a variable in the memory of cpu 
+       # it changes location everytime you run
+
+      score=9049
+      print(id(score))
+  
+- Relational operators
+   The comparison operators that gives a boolean 'True' and 'False'
 
   
-        
-- Comparison operators
-- Membership operators
-- Relational operators
+       """ > greater than
+           < lesss than
+           != not equal 
+           >= greater than or equal to
+           <= less than or equal to
+       """
+        a = 3 ,b = 6 ,c = 9
+        print(a>b)
+        print(a<b)
+        print(b<c)
+        print(c>=a)
+         
+       
 - Logical operators
+   The logical operators are and , or
+         
+  
 
 
 
