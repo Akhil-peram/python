@@ -31,7 +31,7 @@ variables store data
       net = 50_00_000
       print(name,age, occupation , height , net)
 ## Operators
--[Arithmetic operators]
+-Arithmetic operators
 
 
 
