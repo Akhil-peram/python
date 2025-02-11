@@ -22,7 +22,9 @@ The classic hello world program
 ## variables 
 
 
-variables store data 
+variables store data ,
+
+literally literals String , integer , float etc....
 
       name = "John wick"
       age = 39
