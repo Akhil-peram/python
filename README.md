@@ -115,7 +115,7 @@ literally literals String , integer , float etc....
 - Let's talk more abou strings , strings are the godly power and string methods are weapons
 - Every variable is an object in python , hence they have methods like
 
-                              name=' Akhil Peram uzumaki '
+                              name='Naruto uzumazki'
                               company="Google"
                               print(name.title())
                               print(name.upper())
