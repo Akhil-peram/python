@@ -1,14 +1,15 @@
 # Python Tutorial
- 
+----------------------------------------------------------------------------------------------------------------------------------------------
 **Basic python programming code** 
-# Variables
-# Strings
-# Conditional statements
-# Oops 
-# File handling and Exceptions
-# Modules 
-# Data structures
-The classic hello world program
+## Variables
+## Strings
+## Conditional statements
+## Oops 
+## File handling and Exceptions
+## Modules 
+## Data structures
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- The classic hello world program
 
           print("Hello World")
 
