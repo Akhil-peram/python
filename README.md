@@ -1,7 +1,7 @@
 # Python Tutorial
 ----------------------------------------------------------------------------------------------------------------------------------------------
 **Basic python programming code** 
-### Variables
+### Variables 
 ### Strings
 ### Conditional statements
 ### Oops 
@@ -24,7 +24,7 @@ You can [jump to My Section](#my-section-title) from here.
           print("Hello ,I am Ironman")
  
  
-## variables 
+## variables [variables](#variables) from here
 
 
 variables store data ,
