@@ -8,9 +8,6 @@
 ### File handling and Exceptions
 ### Modules 
 ### Data structures
-## My Section Title
-
-You can [jump to My Section](#my-section-title) from here.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - The classic hello world program
@@ -24,7 +21,7 @@ You can [jump to My Section](#my-section-title) from here.
           print("Hello ,I am Ironman")
  
  
-## variables [variables](#variables) from here
+## variables 
 
 
 variables store data ,
