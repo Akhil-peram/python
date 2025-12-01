@@ -112,7 +112,7 @@ literally literals String , integer , float etc....
        print(name + space + nums + symbols + pc)
        print(name +" "+ space+" "+ nums +" "+ symbols +" "+ pc)
        print("Hello"+","+"Everyone")
-- Let's talk more abou strings , strings are the godly power and string methods are weapons
+- Let's talk more abou strings , strings have the godly power and string methods are weapons
 - Every variable is an object in python , hence they have methods like
 
                               name='Naruto uzumazki'
@@ -129,7 +129,7 @@ literally literals String , integer , float etc....
                               print(name.split('.'))
                               print(f"Hello , {name} and welcome to {company}")
                               print("Hello,{} and welcome to {}".format(name,company))
-                              print("Hello %d ",name)
+                              print("Hello ",name)
   `
 ## Conditionals
 if statements
