@@ -2,6 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 **Basic python programming code** 
 ### Variables 
+### type hinting
 ### Strings
 ### Conditional statements
 ### Oops 
@@ -37,6 +38,20 @@ literally literals String , integer , float etc....
       height = 6.1
       net = 50_00_000
       print(name,age, occupation , height , net)
+
+## Type Hints 
+- It's important for type hinting out code
+- Not necessary but useful
+- Less buggy code
+
+    # type hints is actually easy just define the data type
+       a : int
+       name : str
+       pi : float
+       
+
+
+     
 ## Operators
 - Arithmetic operators
   The Mathetical operations in python using Arithmetic operators.Python can be used as a calculator
