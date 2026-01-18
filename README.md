@@ -183,15 +183,19 @@ Loops
     else:
       print("Not allowed")
 ## Loops
-loops are the building blocks of logic and structure along with conditional statements
-Travese through a list , tuple , dictionary , set 
-Highly useful for coding interviews
+- loops are the building blocks of logic and structure along with conditional statements
+- Travese through a list , tuple , dictionary , set 
+- Highly useful for coding interviews
 ### for loop
 
 
           for i in range(10):
               print(i) # prints 1 to 9 in new line
 
+          for i in range(1,21):
+              print(i,end="") # prints 1 to 20 in a single line
+              
+- in range function variables(10,21) is exclusive
 
 
               
