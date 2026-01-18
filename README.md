@@ -66,7 +66,7 @@ literally literals String , integer , float etc....
        print(apples / mangoes)
 - Membership operators
 
-        # memebership operators in, not is
+        # memebership operators in, not , is
 
        nums=[1,2,3]
        print("\n",3 in nums)
@@ -80,7 +80,7 @@ literally literals String , integer , float etc....
       print(cake is not nums)
 
 
-       # id() one of the most impoertant function , it shows th storage location of a variable in the memory of cpu 
+       # id() one of the most important function , it shows th storage location of a variable in the memory of cpu 
        # it changes location everytime you run
 
       score=9049
@@ -127,7 +127,7 @@ literally literals String , integer , float etc....
        print(name + space + nums + symbols + pc)
        print(name +" "+ space+" "+ nums +" "+ symbols +" "+ pc)
        print("Hello"+","+"Everyone")
-- Let's talk more abou strings , strings have the godly power and string methods are weapons
+- Let's talk more about strings , strings have the godly power and string methods are weapons
 - Every variable is an object in python , hence they have methods like
 
                               name='Naruto uzumazki'
@@ -182,6 +182,16 @@ Loops
 
     else:
       print("Not allowed")
+## Loops
+loops are the building blocks of logic and structure along with conditional statements
+Travese through a list , tuple , dictionary , set 
+Highly useful for coding interviews
+### for loop
+
+
+          for i in range(10):
+              print(i) # prints 1 to 9 in new line
 
 
 
+              
