@@ -175,10 +175,10 @@ Loops
 ### elif statement (elseif)
 
     name = input("Enter pass key")
-    if passkey == "Naruto":
+    if name == "Naruto":
         print("You may pass")
-    elif:
-       print("You misplaced the key")
+    elif name == "naruto":
+       print("You mistyped the key")
 
     else:
       print("Not allowed")
