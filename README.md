@@ -28,7 +28,7 @@
 ## variables 
 
 
-variables store data ,
+variables store data 
 
 literally literals String , integer , float etc....
 
