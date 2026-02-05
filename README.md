@@ -196,6 +196,11 @@ Loops
               print(i,end="") # prints 1 to 20 in a single line
               
 - in range function variables(10,21) is exclusive
+### while loop
 
+        i = 1
+        while i <=10:
+            print(i)
+            i+=1
 
               
