@@ -106,7 +106,7 @@ literally literals String , integer , float etc....
          
        
 - Logical operators
-   The logical operators are and , or
+   The logical operators are and , or , not .
 
 
  ## Strings
