@@ -205,4 +205,8 @@ Loops
 
   
 
-### Data structures            
+## Data structures 
+- ### List (arrays)
+- ### Tuples
+- ### Dictionary (HashMap)
+- ### sets
